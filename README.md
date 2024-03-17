@@ -1,8 +1,8 @@
 ## ✨ Olá! Me chamo Sidney e seja bem-vindo :]
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=SidneyGeorge05&show_icons=true&theme=codeSTACKr&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyGeorge05&theme=codeSTACKr&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=SidneyGeorge05&show_icons=true&theme=dark&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyGeorge05&theme=dark&layout=compact"/>
 </p>
 
 ## Ferramentas e linguagens:
